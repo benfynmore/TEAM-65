@@ -4,4 +4,18 @@ Cathy Jiang
 John Wu
 
 bananas
+<<<<<<< HEAD
 Apple
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+dion do some work
+=======
+cheeeeeeese
+>>>>>>> origin/master
+=======
+cheeeeeeese
+Footy
+>>>>>>> origin/master
+>>>>>>> origin/master
