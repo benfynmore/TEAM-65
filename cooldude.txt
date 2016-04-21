@@ -4,22 +4,15 @@ Cathy Jiang
 John Wu
 
 bananas
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
 Apple
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> origin/master
 
 dion do some work
 
 
 Footy
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
->>>>>>> origin/master
->>>>>>> origin/master
+
+
+Dion is work 
+
