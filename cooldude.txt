@@ -10,7 +10,7 @@ Apple
 <<<<<<< HEAD
 <<<<<<< HEAD
 
-dion do some work
+Dion is work 
 =======
 cheeeeeeese
 >>>>>>> origin/master
