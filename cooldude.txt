@@ -4,5 +4,9 @@ Cathy Jiang
 John Wu
 
 bananas
+<<<<<<< HEAD
 
 dion do some work
+=======
+cheeeeeeese
+>>>>>>> origin/master
